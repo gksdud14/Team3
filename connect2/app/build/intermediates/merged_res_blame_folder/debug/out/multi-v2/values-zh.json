@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.techtown.connect2.app-mergeDebugResources-35:/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\409\\.gradle\\caches\\transforms-3\\d7ab5c96eca153b5086ffbd5a03001e9\\transformed\\permission-2.0.0\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,113,169,223,280,338,397,450,508,559",
+                        "endColumns": "57,55,53,56,57,58,52,57,50,56",
+                        "endOffsets": "108,164,218,275,333,392,445,503,554,611"
+                    }
+                }
+            ]
+        }
+    ]
+}

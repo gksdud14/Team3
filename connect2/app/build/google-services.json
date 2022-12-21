@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "538392299836",
+    "firebase_url": "https://forb-project-c8c7c-default-rtdb.firebaseio.com",
+    "project_id": "forb-project-c8c7c",
+    "storage_bucket": "forb-project-c8c7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538392299836:android:7653f70d8ecc2fc0a1f639",
+        "android_client_info": {
+          "package_name": "org.techtown.blackboxproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538392299836-mqucpss2shmnaj21mdtn38kf3m0rmfvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtJ4RCeKC8LCZKTiX39U8YUNFL2-Pytek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538392299836-mqucpss2shmnaj21mdtn38kf3m0rmfvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538392299836:android:c51c9f75590e3477a1f639",
+        "android_client_info": {
+          "package_name": "org.techtown.connect2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538392299836-mqucpss2shmnaj21mdtn38kf3m0rmfvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtJ4RCeKC8LCZKTiX39U8YUNFL2-Pytek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538392299836-mqucpss2shmnaj21mdtn38kf3m0rmfvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

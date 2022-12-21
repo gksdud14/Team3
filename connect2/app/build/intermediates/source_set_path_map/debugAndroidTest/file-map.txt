@@ -1,0 +1,9 @@
+org.techtown.connect2.test.app-core-1.5.0-0 C:\Users\409\.gradle\caches\transforms-3\eae2ffc2ce0834c2a74c1d976cdf742c\transformed\core-1.5.0\res
+org.techtown.connect2.test.app-annotation-experimental-1.1.0-1 C:\Users\409\.gradle\caches\transforms-3\ebc5cdc968831466331bfc76f957101c\transformed\annotation-experimental-1.1.0\res
+org.techtown.connect2.test.app-androidTest-2 D:\project\connect2\app\build\generated\res\resValues\androidTest\debug
+org.techtown.connect2.test.app-androidTest-3 D:\project\connect2\app\build\generated\res\rs\androidTest\debug
+org.techtown.connect2.test.app-mergeDebugAndroidTestResources-4 D:\project\connect2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+org.techtown.connect2.test.app-mergeDebugAndroidTestResources-5 D:\project\connect2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+org.techtown.connect2.test.app-merged_res-6 D:\project\connect2\app\build\intermediates\merged_res\debugAndroidTest
+org.techtown.connect2.test.app-androidTest-7 D:\project\connect2\app\src\androidTest\res
+org.techtown.connect2.test.app-androidTestDebug-8 D:\project\connect2\app\src\androidTestDebug\res

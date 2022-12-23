@@ -1,3 +1,0 @@
-org.techtown.connect2.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
